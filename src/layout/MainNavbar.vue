@@ -8,7 +8,7 @@
   >
     <template slot-scope="{ toggle, isToggled }">
       <router-link v-popover:popover1 class="navbar-brand" to="/">
-        Now Ui Kit
+        Eugene Panda
       </router-link>
       <el-popover
         ref="popover1"
@@ -18,7 +18,7 @@
         trigger="hover"
       >
         <div class="popover-body">
-          Designed by Invision. Coded by Creative Tim
+          Coded by Vue.js and Material Design.
         </div>
       </el-popover>
     </template>
@@ -69,11 +69,10 @@
       <li class="nav-item">
         <a
           class="nav-link btn btn-neutral"
-          href="https://www.creative-tim.com/product/vue-now-ui-kit-pro"
+          href="https://panda-sunglasses.firebaseapp.com/"
           target="_blank"
         >
-          <i class="now-ui-icons arrows-1_share-66"></i>
-          <p>Upgrade to PRO</p>
+          <p>Go to React-Native</p>
         </a>
       </li>
 
