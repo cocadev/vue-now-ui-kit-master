@@ -8,23 +8,18 @@
       <nav>
         <ul>
           <li>
-            <a href="https://www.creative-tim.com">
-              Creative Tim
+            <a href="https://github.com/funnyjerry">
+              PandaDev
             </a>
           </li>
           <li>
-            <a href="https:///presentation.creative-tim.com">
-              About Us
+            <a href="https://github.com/funnyjerry">
+              About Me
             </a>
           </li>
           <li>
-            <a href="https:///blog.creative-tim.com">
+            <a href="https://github.com/funnyjerry">
               Blog
-            </a>
-          </li>
-          <li>
-            <a href="https://www.creative-tim.com/license">
-              License
             </a>
           </li>
         </ul>
@@ -38,8 +33,8 @@
           >BinarCode</a
         >
         and
-        <a href="https://www.creative-tim.com" target="_blank" rel="noopener"
-          >Creative Tim</a
+        <a href="https://github.com/funnyjerry" target="_blank" rel="noopener"
+          >Panda Dev</a
         >.
       </div>
     </div>

@@ -29,8 +29,7 @@
           href="https://www.creative-tim.com/product/vue-now-ui-kit"
           target="_blank"
         >
-          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
-          <p>Download</p>
+          <p>Home</p>
         </a>
       </li>
       <drop-down
@@ -52,7 +51,7 @@
       </drop-down>
       <drop-down
               tag="li"
-              title="Examples"
+              title="Screens"
               icon="now-ui-icons design_image"
               class="nav-item"
       >
@@ -75,44 +74,17 @@
           <p>Go to React-Native</p>
         </a>
       </li>
-
       <li class="nav-item">
         <a
           class="nav-link"
           rel="tooltip"
-          title="Follow us on Twitter"
+          title="Follow me on Github"
           data-placement="bottom"
-          href="https://twitter.com/CreativeTim"
+          href="https://github.com/funnyjerry"
           target="_blank"
         >
-          <i class="fab fa-twitter"></i>
-          <p class="d-lg-none d-xl-none">Twitter</p>
-        </a>
-      </li>
-      <li class="nav-item">
-        <a
-          class="nav-link"
-          rel="tooltip"
-          title="Like us on Facebook"
-          data-placement="bottom"
-          href="https://www.facebook.com/CreativeTim"
-          target="_blank"
-        >
-          <i class="fab fa-facebook-square"></i>
-          <p class="d-lg-none d-xl-none">Facebook</p>
-        </a>
-      </li>
-      <li class="nav-item">
-        <a
-          class="nav-link"
-          rel="tooltip"
-          title="Follow us on Instagram"
-          data-placement="bottom"
-          href="https://www.instagram.com/CreativeTimOfficial"
-          target="_blank"
-        >
-          <i class="fab fa-instagram"></i>
-          <p class="d-lg-none d-xl-none">Instagram</p>
+          <i class="fab fa-github"></i>
+          <p class="d-lg-none d-xl-none">Github</p>
         </a>
       </li>
     </template>
