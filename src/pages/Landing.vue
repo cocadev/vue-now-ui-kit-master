@@ -8,18 +8,7 @@
       </parallax>
       <div class="content-center">
         <div class="container">
-          <h1 class="title">This is our great company.</h1>
-          <div class="text-center">
-            <a href="#pablo" class="btn btn-primary btn-icon btn-round">
-              <i class="fab fa-facebook-square"></i>
-            </a>
-            <a href="#pablo" class="btn btn-primary btn-icon btn-round">
-              <i class="fab fa-twitter"></i>
-            </a>
-            <a href="#pablo" class="btn btn-primary btn-icon btn-round">
-              <i class="fab fa-google-plus"></i>
-            </a>
-          </div>
+          <h1 class="title">This is Panda's Vue World.</h1>
         </div>
       </div>
     </div>
@@ -27,12 +16,9 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 ml-auto mr-auto text-center">
-            <h2 class="title">Who we are?</h2>
+            <h2 class="title">Who I am?</h2>
             <h5 class="description">
-              According to the National Oceanic and Atmospheric Administration,
-              Ted, Scambos, NSIDClead scentist, puts the potentially record low
-              maximum sea ice extent tihs year down to low ice extent in the
-              Pacific and a late drop in ice extent in the Barents Sea.
+              Looking for a front-end developer with Vue.js experience? Do you need to create or maintain your website? Well, I’m experienced in creating web pages and components for individuals, startups, and established companies, so maybe we’re match.
             </h5>
           </div>
         </div>
@@ -46,9 +32,7 @@
               >
                 <!-- First image on the left side -->
                 <p class="blockquote blockquote-primary">
-                  "Over the span of the satellite record, Arctic sea ice has
-                  been declining significantly, while sea ice in the
-                  Antarctichas increased very slightly"
+                  "You will get your source code in the Git or Bitbucket repository."
                   <br />
                   <br />
                   <small>-NOAA</small>
@@ -67,34 +51,19 @@
                 style="background-image: url('img/bg1.jpg')"
               ></div>
               <h3>
-                So what does the new record for the lowest level of winter ice
-                actually mean
+                I’m well-versed in creating complex HTML/CSS/JS user interfaces using best practices, implementing code in JavaScript, VueJS/Vuex, Nuxt.js frameworks, jQuery library, and CSS frameworks like Bootstrap 4.
               </h3>
               <p>
-                The Arctic Ocean freezes every winter and much of the sea-ice
-                then thaws every summer, and that process will continue whatever
-                happens with climate change. Even if the Arctic continues to be
-                one of the fastest-warming regions of the world, it will always
-                be plunged into bitterly cold polar dark every winter. And
-                year-by-year, for all kinds of natural reasons, there’s huge
-                variety of the state of the ice.
+                As a front-end web developer I have been involved in big projects such as:
+                -- Tutorful - an online platform that allows you to connect​ with tutors | Vue.js job
+                -- Denteez - a dental network | Single-page web app with AngularJS
+                -- Blabmate - a service that helps English learners find English teachers
               </p>
               <p>
-                For a start, it does not automatically follow that a record
-                amount of ice will melt this summer. More important for
-                determining the size of the annual thaw is the state of the
-                weather as the midnight sun approaches and temperatures rise.
-                But over the more than 30 years of satellite records, scientists
-                have observed a clear pattern of decline, decade-by-decade.
+                If you looking for static website development then Nuxt.js static site generator would be a good choice. I can convert PSD/Sketch designs into a static responsive website.
               </p>
               <p>
-                The Arctic Ocean freezes every winter and much of the sea-ice
-                then thaws every summer, and that process will continue whatever
-                happens with climate change. Even if the Arctic continues to be
-                one of the fastest-warming regions of the world, it will always
-                be plunged into bitterly cold polar dark every winter. And
-                year-by-year, for all kinds of natural reasons, there’s huge
-                variety of the state of the ice.
+                Using the latest technologies and tools in front-end coding (such as InVision/Avocode, Webpack, SCSS/Sass, React JS, Vue JS, HTML5, CSS3, ES6 and beyond) I will strive to build you a great web application.
               </p>
             </div>
           </div>
@@ -103,7 +72,7 @@
     </div>
     <div class="section section-team text-center">
       <div class="container">
-        <h2 class="title">Here is our team</h2>
+        <h2 class="title">Here is my skill sets</h2>
         <div class="team">
           <div class="row">
             <div class="col-md-4">
