@@ -1,5 +1,5 @@
 
-## Quick start
+## Quick  with vuejs + material ui
 
 Quick start options:
 
