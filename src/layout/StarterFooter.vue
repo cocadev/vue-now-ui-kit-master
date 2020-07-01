@@ -8,17 +8,17 @@
       <nav>
         <ul>
           <li>
-            <a href="https://github.com/funnyjerry">
+            <a href="https://github.com/kingofdevs">
               Kingofdevs
             </a>
           </li>
           <li>
-            <a href="https://github.com/funnyjerry">
+            <a href="https://github.com/kingofdevs">
               About Me
             </a>
           </li>
           <li>
-            <a href="https://github.com/funnyjerry">
+            <a href="https://github.com/kingofdevs">
               Blog
             </a>
           </li>
@@ -33,7 +33,7 @@
           >BinarCode</a
         >
         and
-        <a href="https://github.com/funnyjerry" target="_blank" rel="noopener"
+        <a href="https://github.com/kingofdevs" target="_blank" rel="noopener"
           >King of Devs</a
         >.
       </div>

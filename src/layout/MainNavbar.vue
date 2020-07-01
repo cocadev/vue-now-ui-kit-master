@@ -68,7 +68,7 @@
       <li class="nav-item">
         <a
           class="nav-link btn btn-neutral"
-          href="https://panda-sunglasses.firebaseapp.com/"
+          href="#"
           target="_blank"
         >
           <p>Go to React-Native</p>
