@@ -9,7 +9,7 @@
       <div class="container">
         <div class="content-center brand">
           <img class="n-logo" src="img/now-logo.png" alt="" />
-          <h1 class="h1-seo">Panda Dev</h1>
+          <h1 class="h1-seo">King Of Devs</h1>
           <h3>Vuex/Vueitify/Nuxt.js Expert</h3>
         </div>
       </div>

@@ -9,7 +9,7 @@
         <ul>
           <li>
             <a href="https://github.com/funnyjerry">
-              PandaDev
+              Kingofdevs
             </a>
           </li>
           <li>
@@ -34,7 +34,7 @@
         >
         and
         <a href="https://github.com/funnyjerry" target="_blank" rel="noopener"
-          >Panda Dev</a
+          >King of Devs</a
         >.
       </div>
     </div>

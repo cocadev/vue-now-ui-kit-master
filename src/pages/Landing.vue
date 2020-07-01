@@ -8,7 +8,7 @@
       </parallax>
       <div class="content-center">
         <div class="container">
-          <h1 class="title">This is Panda's Vue World.</h1>
+          <h1 class="title">This is Kingofdevs' Vue World.</h1>
         </div>
       </div>
     </div>
