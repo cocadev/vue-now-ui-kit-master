@@ -1,6 +1,10 @@
 
 ## Quick  with vuejs + material ui
 
+<img src="screens/1.png">
+
+<img src="screens/2.png">
+
 Quick start options:
 
 - Clone the repo: `git clone https://github.com/creativetimofficial/vue-now-ui-kit.git`.
