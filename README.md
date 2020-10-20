@@ -1,5 +1,5 @@
 
-## Quick  with vuejs + material ui
+## Vuejs + material ui
 
 <img src="screens/1.png">
 
